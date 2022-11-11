@@ -1,9 +1,10 @@
 package wsm
 
 import (
-	"color-thief/argsort"
-	"color-thief/wu"
 	"math"
+
+	"github.com/LQR471814/color-thief/argsort"
+	"github.com/LQR471814/color-thief/wu"
 )
 
 const (

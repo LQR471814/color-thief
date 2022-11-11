@@ -1,7 +1,7 @@
 package wu
 
 import (
-	"color-thief/argsort"
+	"github.com/LQR471814/color-thief/argsort"
 )
 
 /**********************************************************************

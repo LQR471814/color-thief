@@ -1,9 +1,9 @@
 package main
 
 import (
-	"color-thief/helper"
-	"color-thief/wsm"
-	"color-thief/wu"
+	"github.com/LQR471814/color-thief/helper"
+	"github.com/LQR471814/color-thief/wsm"
+	"github.com/LQR471814/color-thief/wu"
 )
 
 func main() {}
